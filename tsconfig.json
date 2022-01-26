@@ -26,11 +26,8 @@
     "isolatedModules": true,
     "noEmit": true
   },
-  "includes": [
+  "include": [
     "src/**/*.ts",
     "src/**/*.tsx"
-  ],
-  "include": [
-    "src"
   ]
 }
